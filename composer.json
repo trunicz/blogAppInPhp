@@ -1,0 +1,17 @@
+{
+    "name": "trnx/blog",
+    "autoload": {
+        "psr-4": {
+            "Trnx\\Blog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Trunicz",
+            "email": "romelin2001@hotmail.com"
+        }
+    ],
+    "require": {
+        "league/commonmark": "^1.6.6"
+    }
+}
